@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lunaric</h1>
-<h3 align="center">A passionate Developer from Germany</h3>
+<h2 align="left">Hi 👋! My name is Lunaric and I'm a Developer based in Germany</h2>
 
 ###
 
@@ -71,24 +70,27 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/dejan_schu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/434866938737459201" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:jjeje0597@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-- 🔭 I’m currently working on **a React Library**
+🔭 I’m currently working on a React Library
 
-- 🌱 I’m currently learning **React and Tailwind CSS**
+🌱 I’m currently learning React and Tailwind CSS
 
-- 💬 Ask me about **anything Web and Software related**
+💬 Ask me about anything Web and Software related
 
-- 📫 How to reach me **jjeje0597@gmail.com**
+📫 How to reach me jjeje0597@gmail.com
 
-- 📄 Know about my experiences [**soon**](**soon**)
+📄 Know about my experiences soon
 
-- ⚡ Fun fact **I go fishing :D**
+⚡ Fun fact I go fishing :D
