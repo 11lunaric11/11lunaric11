@@ -81,3 +81,15 @@
 </div>
 
 ###
+
+- 🔭 I’m currently working on **a React Library**
+
+- 🌱 I’m currently learning **React and Tailwind CSS**
+
+- 💬 Ask me about **anything Web and Software related**
+
+- 📫 How to reach me **jjeje0597@gmail.com**
+
+- 📄 Know about my experiences [**soon**](**soon**)
+
+- ⚡ Fun fact **I go fishing :D**
