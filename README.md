@@ -79,13 +79,13 @@
 
 ###
 
-- 🔭 I’m currently working on **a React Library**
+- 🔭 I’m currently working on **a React Animation Library**
 
 - 🌱 I’m currently learning **React and Tailwind CSS**
 
 - 💬 Ask me about **anything Web and Software related**
 
-- 📫 How to reach me **jjeje0597@gmail.com**
+- 📫 How to reach me **lunaricdev@gmail.com**
 
 - 📄 Know about my experiences [**soon**](**soon**)
 
