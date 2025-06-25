@@ -79,7 +79,7 @@
 
 ###
 
-- 🔭 I’m currently working on **a React Animation Library**
+- 🔭 I’m currently working on **a DMA CHEAT**
 
 - 🌱 I’m currently learning **React and Tailwind CSS**
 
@@ -87,6 +87,6 @@
 
 - 📫 How to reach me **lunaricdev@gmail.com**
 
-- 📄 Know about my experiences [**soon**](**soon**)
+- 📄 Know about my experiences https://lunaric.fun
 
 - ⚡ Fun fact **I go fishing :D**
