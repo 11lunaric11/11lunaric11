@@ -4,7 +4,7 @@
 
 **Application security & developer tooling · Germany**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lunaric.fun-5eead4?style=for-the-badge&logoColor=white)](https://lunaric.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lunaric.fun-5eead4?style=for-the-badge&logoColor=white)](https://lunaric.fun)
 [![Email](https://img.shields.io/badge/Email-contact@lunaric.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lunaric.dev)
 [![Discord](https://img.shields.io/badge/Discord-@lunaric-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/434866938737459201)
 
@@ -45,6 +45,14 @@ Automated IDOR enumeration with cross-user response diffing. Detects horizontal 
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" title="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" title="C++" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="Go" title="Go" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="32" alt="Rust" title="Rust" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" title="Node.js" />
@@ -59,7 +67,7 @@ Automated IDOR enumeration with cross-user response diffing. Detects horizontal 
 </p>
 
 Actively using: **Python · TypeScript · React · Tailwind · Linux**  
-Working knowledge: C# · C++ · Lua · Arduino  
+Working knowledge: C · C++ · Go · Rust · C# · Lua · Arduino  
 Security-focused: Burp Suite · OWASP methodologies · CTFs (TryHackMe, PortSwigger Academy)
 
 ---
