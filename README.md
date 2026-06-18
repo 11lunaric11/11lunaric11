@@ -4,7 +4,7 @@
 
 **Application security & developer tooling · Germany**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lunaric.fun-5eead4?style=for-the-badge&logoColor=white)](https://lunaric.fun)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lunaric.fun-5eead4?style=for-the-badge&logoColor=white)](https://lunaric.dev)
 [![Email](https://img.shields.io/badge/Email-contact@lunaric.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lunaric.dev)
 [![Discord](https://img.shields.io/badge/Discord-@lunaric-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/434866938737459201)
 
