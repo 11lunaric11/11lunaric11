@@ -10,3 +10,4 @@ _*.svg
 # your raw photo + prepped image stay local (privacy — only the ASCII ships)
 source-photo.jpg
 source-prepped.png
+README.previous.md
