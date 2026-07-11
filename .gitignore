@@ -1,0 +1,12 @@
+# local build env
+.venv/
+__pycache__/
+
+# preview renders (not part of the profile)
+preview-*.png
+avi-ascii-static.svg
+_*.svg
+
+# your raw photo + prepped image stay local (privacy — only the ASCII ships)
+source-photo.jpg
+source-prepped.png
