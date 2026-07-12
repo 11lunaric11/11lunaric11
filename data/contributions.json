@@ -1,13 +1,13 @@
 {
   "username": "11lunaric11",
-  "generated_at": "2026-07-11T15:25:23Z",
+  "generated_at": "2026-07-12T05:26:14Z",
   "range": {
-    "start": "2025-07-06",
-    "end": "2026-07-11"
+    "start": "2025-07-13",
+    "end": "2026-07-12"
   },
-  "total_contributions": 213,
-  "active_days": 59,
-  "avg_per_active_day": 3.6,
+  "total_contributions": 202,
+  "active_days": 53,
+  "avg_per_active_day": 3.8,
   "current_streak": {
     "length": 0,
     "start": null,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-07",
-      "total": 48
+      "total": 37
     },
     {
       "month": "2025-08",
@@ -77,34 +77,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-07-06",
-      "count": 3
-    },
-    {
-      "date": "2025-07-07",
-      "count": 3
-    },
-    {
-      "date": "2025-07-08",
-      "count": 2
-    },
-    {
-      "date": "2025-07-09",
-      "count": 0
-    },
-    {
-      "date": "2025-07-10",
-      "count": 1
-    },
-    {
-      "date": "2025-07-11",
-      "count": 1
-    },
-    {
-      "date": "2025-07-12",
-      "count": 1
-    },
     {
       "date": "2025-07-13",
       "count": 3
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-07-11",
+      "count": 0
+    },
+    {
+      "date": "2026-07-12",
       "count": 0
     }
   ]
