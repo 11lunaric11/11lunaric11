@@ -18,7 +18,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lunaric.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://lunaric.dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-lunaric11-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/lunaric11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dejan--schult-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dejan-schult)
 [![Instagram](https://img.shields.io/badge/Instagram-lunaric11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lunaric11)
 
 <br>
